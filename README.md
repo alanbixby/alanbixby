@@ -1,5 +1,12 @@
-### Hi there 👋
-
+<p align="center">
+  <samp>Hello! 👋</samp>
+  <br>
+  <br>
+  <samp>I am a jack of all trades who primarily uses NodeJS and loves diving into analytics.</samp>
+  <br>
+  <br>
+  <samp>You are best able to contact me on Discord @ <a href="https://discordapp.com/users/180136998982516736/">BixbyAlan#6986</a>.</samp>
+</p>
 <!--
 **alanbixby/alanbixby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
